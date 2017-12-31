@@ -1,4 +1,4 @@
-# Ramsonware-DarkShark
+# Ransomware-DarkShark
 English:
 
 This Ramsonware written in python uses the hashlib library to create a hash of a file and to encrypt it. You can encrypt any type of file such as an image, mp4, txt and many more. I am not responsible for its misuse, because this script is made for informational purposes.
