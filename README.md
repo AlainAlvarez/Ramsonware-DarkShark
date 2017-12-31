@@ -8,7 +8,7 @@ Spanish:
 
 Este Ramsonware escrito en python usa la libreria hashlib para crear un hash de un archivo y haci cifrarlo. Puede cifrar cualquier tipo de archivo como por ejemplo una imagen, mp4,txt y muchos mas. No me hago responsable por su mal uso, debido a que este script esta echo con propositos informativos.
 
-Crado por: Sh4Rk_0
+Creado por: Sh4Rk_0
 
 Blog: hackingpills.blogspot.com
 
